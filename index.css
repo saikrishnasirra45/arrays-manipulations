@@ -1,0 +1,15 @@
+.heading {
+    color: blue;
+    font-family: "Caveat";
+    font-size: 40px;
+    text-decoration: underline;
+  }
+  .mr{
+    text-align: center;
+    padding-top: 230px;
+  }
+  .spidey{
+    background-image: url("https://wallpapercave.com/wp/wp4027582.jpg");
+    background-size: cover;
+    height: 100vh;
+  }
